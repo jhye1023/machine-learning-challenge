@@ -10,21 +10,28 @@ Over a period of nine years in deep space, the NASA Kepler space telescope has b
 * Use `MinMaxScaler` to scale the numerical data.
 * Separate the data into training and testing data.
 
-<<<<<<< HEAD
+### Which model best fits the data?
 
 
 
-=======
+
 ### Comparison
 
 Logistic Model
+
 ![Model](img/logistic.png)
 
 Random Forest Classifer Model
+
 ![Model](img/forest.png)
 
 Support vector machine classifier Model
+
 ![Model](img/SVC.png)
 
 K-nearest neighbors classifier Model
+
 ![Model](img/knn.png)
+
+
+
