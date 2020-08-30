@@ -9,3 +9,8 @@ Over a period of nine years in deep space, the NASA Kepler space telescope has b
 * Perform feature selection and remove unnecessary features.
 * Use `MinMaxScaler` to scale the numerical data.
 * Separate the data into training and testing data.
+
+### Comparison
+
+Logistic Model
+(img/logistic.png)
