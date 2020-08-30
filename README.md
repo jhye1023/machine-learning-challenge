@@ -17,5 +17,14 @@ Over a period of nine years in deep space, the NASA Kepler space telescope has b
 =======
 ### Comparison
 
-![Logistic Model](img/logistic.png)
->>>>>>> 0efbf4e16a8cd306e10a42e7f2a8eb1218ff2998
+Logistic Model
+![Model](img/logistic.png)
+
+Random Forest Classifer Model
+![Model](img/forest.png)
+
+Support vector machine classifier Model
+![Model](img/SVC.png)
+
+K-nearest neighbors classifier Model
+![Model](img/knn.png)
