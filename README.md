@@ -12,5 +12,5 @@ Over a period of nine years in deep space, the NASA Kepler space telescope has b
 
 ### Comparison
 
-Logistic Model
+![Logistic Model]
 (img/logistic.png)
