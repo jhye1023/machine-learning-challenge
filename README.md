@@ -12,10 +12,11 @@ Over a period of nine years in deep space, the NASA Kepler space telescope has b
 
 ### Which model best fits the data?
 
-
-
+Classification report of this model also has the best precision of outcomes (.80 for "CONFIRMED").
 
 ### Comparison
+
+* The following sections show the overall scores for outcomes for all models.
 
 Logistic Model
 
